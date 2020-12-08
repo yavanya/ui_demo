@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Саня Рыжий",
+        "address": "Ожешко 39/1",
+        "image": "/sanya.png",
+        "rating": 4.8,
+        "isIndividual": true,
+        "isNew": true,
+        "isPopular": true
+    },
+    {
+        "name": "Салон",
+        "address": "Малая Арнаутская 52",
+        "image": "/salon.png",
+        "rating": 3.9,
+        "isIndividual": false,
+        "isNew": false,
+        "isPopular": true
+    },
+    {
+        "name": "Winchester",
+        "address": "Малая Арнаутская 54",
+        "image": "/winchester.png",
+        "rating": 4.1,
+        "isIndividual": false,
+        "isNew": true,
+        "isPopular": true
+    },
+    {
+        "name": "Серега",
+        "address": "Ожешко 39/1",
+        "image": "/serega.png",
+        "rating": 2.4,
+        "isIndividual": true,
+        "isNew": true,
+        "isPopular": false
+    },
+    {
+        "name": "Barbershop",
+        "address": "Летчиков 31",
+        "image": "/cheremushki.png",
+        "rating": 1.9,
+        "isIndividual": false,
+        "isNew": true,
+        "isPopular": false
+    },
+    {
+        "name": "Саня Рыжий",
+        "address": "Ожешко 39/1",
+        "image": "/sanya.png",
+        "rating": 4.8,
+        "isIndividual": true,
+        "isNew": false,
+        "isPopular": true
+    },
+    {
+        "name": "Салон",
+        "address": "Малая Арнаутская 52",
+        "image": "/salon.png",
+        "rating": 3.9,
+        "isIndividual": false,
+        "isNew": false,
+        "isPopular": true
+    },
+    {
+        "name": "Winchester",
+        "address": "Барбешопная 28",
+        "image": "/winchester.png",
+        "rating": 4.1,
+        "isIndividual": false,
+        "isNew": true,
+        "isPopular": true
+    },
+    {
+        "name": "Серега",
+        "address": "Ожешко 39/1",
+        "image": "/serega.png",
+        "rating": 2.4,
+        "isIndividual": true,
+        "isNew": true,
+        "isPopular": false
+    },
+    {
+        "name": "Barbershop",
+        "address": "Космонавтов 31",
+        "image": "/cheremushki.png",
+        "rating": 1.9,
+        "isIndividual": false,
+        "isNew": true,
+        "isPopular": false
+    },
+    {
+        "name": "Саня Рыжий",
+        "address": "Ожешко 39/1",
+        "image": "/sanya.png",
+        "rating": 4.8,
+        "isIndividual": true,
+        "isNew": false,
+        "isPopular": true
+    },
+    {
+        "name": "Салон",
+        "address": "Малая Арнаутская 52",
+        "image": "/salon.png",
+        "rating": 3.9,
+        "isIndividual": false,
+        "isNew": false,
+        "isPopular": true
+    },
+    {
+        "name": "Winchester",
+        "address": "Барбешопная 28",
+        "image": "/winchester.png",
+        "rating": 4.1,
+        "isIndividual": false,
+        "isNew": true,
+        "isPopular": true
+    },
+    {
+        "name": "Серега",
+        "address": "Ожешко 39/1",
+        "image": "/serega.png",
+        "rating": 2.4,
+        "isIndividual": true,
+        "isNew": true,
+        "isPopular": false
+    },
+    {
+        "name": "Barbershop",
+        "address": "Космонавтов 31",
+        "image": "/cheremushki.png",
+        "rating": 1.9,
+        "isIndividual": false,
+        "isNew": true,
+        "isPopular": false
+    }
+]
